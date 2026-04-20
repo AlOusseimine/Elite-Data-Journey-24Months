@@ -1,0 +1,109 @@
+# 🇧🇷 Olist E-Commerce Data Analysis
+
+**Signature Project #1 | Data Analytics Learning Journey (Month 01-03)**
+
+---
+
+## 🎯 Project Overview
+
+This project focuses on analyzing a real-world Brazilian e-commerce dataset.
+
+The objective is to progressively build strong data analysis skills through:
+
+* Data cleaning (Excel)
+* Relational analysis (SQL)
+* Visualization (later stages)
+
+---
+
+## 🏗 Data Architecture
+
+The dataset consists of multiple related tables:
+
+* Core tables: `orders`, `order_items`
+* Additional tables (future use): `customers`, `products`, `payments`
+
+Work will start with simplified data and progressively move to relational analysis.
+
+---
+
+## 🛠 Tech Stack & Methodology
+
+* **Month 01 (Excel):**
+
+  * Data cleaning
+  * Table merging (VLOOKUP / Power Query)
+  * KPI creation
+  * Dashboard building
+
+* **Month 02 (SQL):**
+
+  * Joins between tables
+  * Business queries
+  * Data modeling basics
+
+* **Month 03 (Python / BI):**
+
+  * Data visualization
+  * Final project presentation
+
+---
+
+## 🚀 Progress Tracking (Daily)
+
+### Week 1: Data Exploration & Cleaning
+
+* [x] Day 1: GitHub setup & dataset import
+* [ ] Day 2: Understanding dataset structure
+* [ ] Day 3: Cleaning `orders` (nulls, formats)
+* [ ] Day 4: Merging `orders` + `order_items`
+* [ ] Day 5: First KPIs creation
+
+---
+
+## 🧹 Data Cleaning Log
+
+*(Updated progressively)*
+
+* Identified missing values in multiple columns
+* Standardizing date formats (in progress)
+
+---
+
+## 📊 KPI & Analysis
+
+*(Updated progressively)*
+
+* KPI in progress:
+
+  * Total sales
+  * Number of orders
+
+---
+
+## 📈 Visualization
+
+*(To be updated)*
+
+---
+
+## 💡 Insights (Work in progress)
+
+* Insights will be added as analysis progresses
+
+---
+
+## 📌 Learning Notes
+
+* Understanding how relational datasets work
+* Learning how to clean real-world messy data
+
+---
+Note: Due to GitHub file size limits, the olist_geolocation_dataset.csv is stored locally. The full raw dataset can be sourced directly from Kaggle.
+
+## 📝 Author
+
+Data Analyst in training
+Currently building practical projects and sharing progress
+
+

@@ -89,7 +89,11 @@ Goal: Become a Data Scientist Engineer capable of solving real business problems
 - I prioritize consistency over intensity
 - I document everything I build
 - I think in systems, not just code
-## 🌍 Connect
+
+🎓 Certificationshttps://coursera.org/verify/D74QHW73WSXS
+* Google Data Analytics Professional Certificate * ✅ Course 1: Foundations: Data, Data, Everywhere (Completed Apr 21, 2026) — Verify here:
+   https://coursera.org/verify/D74QHW73WSXS
+  ## 🌍 Connect
 
 - LinkedIn: linkedin.com/in/alussemin
     

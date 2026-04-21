@@ -54,7 +54,7 @@ Work will start with simplified data and progressively move to relational analys
 ### Week 1: Data Exploration & Cleaning
 
 * [x] Day 1: GitHub setup & dataset import
-* [ ] Day 2: Understanding dataset structure
+* [x] Day 2: Understanding dataset structure
 * [ ] Day 3: Cleaning `orders` (nulls, formats)
 * [ ] Day 4: Merging `orders` + `order_items`
 * [ ] Day 5: First KPIs creation

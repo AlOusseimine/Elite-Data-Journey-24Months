@@ -36,6 +36,8 @@ Mon but : Analyser le nombre moyen de mensualités par achat.
 🛠 Ma stratégie pour la suite
 Puisque je débute, je ne vais pas essayer de lier les 9 tables d'un coup.
 
-Je vais d'abord nettoyer la table Orders (Dates, valeurs nulles).
+Je vais d'abord grâce à Excel nettoyer la table Orders (Dates, valeurs nulles).
 
 Ensuite, j'utiliserai la fonction RECHERCHEV (VLOOKUP) dans Excel pour ramener les informations des autres tables quand j'en aurai besoin.
+
+Et je vais à chaque fois documenter mon travail ici.
